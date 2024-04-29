@@ -14,7 +14,7 @@ El projecte fa servir Gradle, des de FONTS es pot fer:
 
 Autoria:
 
-Jon Campillo Navarro-Soto
-Sergi Gonzalez Martos
-Marta Sunyer Gimenez
-Sandra Vazquez Rodriguez
+<p>Jon Campillo Navarro-Soto</p>
+<p>Sergi Gonzalez Martos</p>
+<p>Marta Sunyer Gimenez</p>
+<p>Sandra Vazquez Rodriguez</p>
