@@ -1,0 +1,1 @@
+Aqui guardem el codi font amb algunes coses de Gradle. El que es el codi es a src.

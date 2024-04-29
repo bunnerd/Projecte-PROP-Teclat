@@ -1,0 +1,6 @@
+Directori principal d'execucio. Conte el jar, el directori amb les dades el programa i un directori amb dades que poden fer-se servir com a entrada.
+
+Tenim scripts compila i run. Tots estan suportats nomes a Linux i fan servir Gradle.
+
+-compila construeix el .jar del projecte amb Gradle (./gradlew jar)
+-run executa l'aplicacio (java .jar cluster21_4-3.0.jar)

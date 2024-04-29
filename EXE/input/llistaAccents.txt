@@ -1,0 +1,9 @@
+hola 10 
+adéu 5 
+capítol 6 
+i 20 
+àngel 8 
+camí 13 
+paraula 17 
+ànima 12 
+caricatura 1

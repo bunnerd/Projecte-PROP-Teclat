@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.upc.prop.cluster21_4.domini"},{"l":"edu.upc.prop.cluster21_4.domini.Excepcions"},{"l":"edu.upc.prop.cluster21_4.domini.HillClimbing"},{"l":"edu.upc.prop.cluster21_4.persistencia"},{"l":"edu.upc.prop.cluster21_4.presentacio"}]

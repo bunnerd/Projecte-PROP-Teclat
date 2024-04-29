@@ -1,0 +1,1 @@
+En cas de tenir algun problema amb la documentacio Javadoc proporcionada, es pot regenerar anant a FONTS i executant ./gradlew javadoc

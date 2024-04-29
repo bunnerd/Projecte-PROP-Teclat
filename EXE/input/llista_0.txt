@@ -1,0 +1,6 @@
+cama 0
+abans 0 
+crida 0
+taula 0
+cadira 0 
+eleva 0

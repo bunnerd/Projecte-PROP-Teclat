@@ -1,0 +1,9 @@
+Aquest directori conte les diferents excepcions que fem servir:
+
+NoExisteixMetode es fa servir a l'hora de generar teclat, si el metode donat no es troba entre les opcions.
+
+JaExisteix es fa servir quan algun element que s'intenta afegir ja hi es.
+
+NoTrobat es fa servir en qualsevol cas que es busqui alguna cosa i no es trobi. No sempre te exactament el mateix significat.
+
+FormatIncorrecte es fa servir quan l'entrada no segueix un format correcte (per exemple, a les llistes de paraules amb frequencies, que han de seguir el format "Paraula1 100\n Paraula2 40\n"...)

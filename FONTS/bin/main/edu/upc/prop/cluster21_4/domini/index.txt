@@ -1,0 +1,4 @@
+Aquest directori conte totes les classes del domini, amb l'excepcio de tres subdirectoris:
+
+Excepcions: conte les nostres excepcions personalitzades.
+HillClimbing: conte la base de l'algorisme Hill-Climbing. L'us especific pel problema a resoldre en aquest programa es amb el domini (classes SuccessorsHillClimbing, EstatHillClimbing i HeuristicaHillClimbing).

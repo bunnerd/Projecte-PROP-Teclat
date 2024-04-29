@@ -1,0 +1,2 @@
+cd ../FONTS
+./gradlew jar

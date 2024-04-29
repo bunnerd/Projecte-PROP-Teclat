@@ -1,0 +1,21 @@
+Aquest directori conte les classes generiques per fer servir Hill-Climbing:
+
+CercaHillClimbing:
+    Fa servir la resta de classes per aplicar l'algorisme
+
+FuncioHeuristica:
+    Es fa servir a Hill-Climbing i a cada problema s'implementa una concreta
+
+FuncioSuccessors:
+    Es fa servir a Hill-Climbing i a cada problema s'implementa una concreta
+
+Successor:
+    Es guarda l'operador aplicat i l'estat resultant d'aplicar l'operador. Es creen a FuncioSuccessors.
+
+
+Per tant, algu que volgues fer servir l'algorisme per resoldre un problema hauria de:
+
+-Crear de zero i implementar una classe estat amb els seus operadors
+-Implementar una funcio heuristica que sempre es busca minimitzar 
+-Implementar una funcio generadora de successors que aplica tots els operadors possibles de la classe estat
+-Crear una instancia de CercaHillClimbing amb un estat donat, funcio heuristica i funcio generadora de successors com a parametres
